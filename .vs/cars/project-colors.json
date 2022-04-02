@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "204fd8ee-842c-4c59-a560-b2871374b5cd": {
+      "ProjectGuid": "204fd8ee-842c-4c59-a560-b2871374b5cd",
+      "DisplayName": "cars",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
